@@ -1,0 +1,19 @@
+taskKey="en.codegym.task.pro.task03.task0305"\n\nThree numbers
+
+Use the keyboard to enter three integers. Determine whether there is at least one pair of equal numbers among them.
+If such a pair exists, display the numbers separated by spaces. If all three numbers are equal, then display all three.
+
+Examples:
+a) if we enter the numbers 1 2 2, then the output we get is 2 2
+
+b) if we enter the numbers 2 2 2, then the output we get is 2 2 2
+
+
+Требования:
+1.	The program should read three number from the keyboard.
+2.	The program must contain System.out.println() or System.out.print().
+3.	If two numbers are equal, you need to display them on the screen.
+4.	If all three numbers are equal, you need to display all three.
+5.	If none of the numbers are equal, then display nothing.
+
+

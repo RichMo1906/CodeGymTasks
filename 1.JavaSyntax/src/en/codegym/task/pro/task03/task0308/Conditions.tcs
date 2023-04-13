@@ -1,0 +1,28 @@
+taskKey="en.codegym.task.pro.task03.task0308"\n\nQuadrants
+
+Enter two integers from the keyboard that will be the coordinates of a point. The first number is the x coordinate,
+and the second is the y coordinate). The point must not lie on the X or Y axes.
+Display the number of the quadrant that contains the given point.
+
+Hint:
+Point (x, y) belongs to a quadrant if the following conditions are true:
+- for the first quadrant &mdash; x &gt; 0 and y &gt; 0;
+- for the second quadrant &mdash; x &lt; 0 and y &gt; 0;
+- for the third quadrant &mdash; x &lt; 0 and y &lt; 0;
+- for the fourth quadrant &mdash; x &gt; 0 and y &lt; 0.
+
+Example for the numbers 4 6:
+1
+Example for the numbers -6 -6:
+3
+
+
+Требования:
+1.	The program should read two number from the keyboard.
+2.	The program must use the System.out.println() or System.out.print() command.
+3.	If the point is in the first quadrant, display &quot;1&quot;.
+4.	If the point is in the second quadrant, display &quot;2&quot;.
+5.	If the point is in the third quadrant, display &quot;3&quot;.
+6.	If the point is in the fourth quadrant, display &quot;4&quot;.
+
+

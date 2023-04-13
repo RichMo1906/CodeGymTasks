@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task03.task0301"\n\nWarm or cold
+
+Use the keyboard to enter the outside temperature. If the temperature is less than 0, display &quot;It&#39;s cold outside&quot;. Otherwise, display &quot;It&#39;s warm outside&quot;.
+
+
+Требования:
+1.	The program should read the temperature from the keyboard.
+2.	The program must use the System.out.println() or System.out.print() command.
+3.	If the temperature is less than 0, display only &quot;It&#39;s cold outside&quot;.
+4.	If the temperature is greater than or equal to 0, display only &quot;It&#39;s warm outside&quot;.
+
+

@@ -1,0 +1,14 @@
+taskKey="en.codegym.task.pro.task03.task0307"\n\nTo work or not to work? That is the question
+
+Let&#39;s write a program that will read an age from the keyboard. If the age is in the range from 20 to 60 (inclusive),
+then don&#39;t display anything. Otherwise, display the phrase &quot;You don&#39;t have to work&quot;. You can (and must!) do this with only one if statement (without an else block).
+Hint: use the || (OR) boolean operator.
+
+
+Требования:
+1.	The program should read one number from the keyboard.
+2.	If the age is less than 20 or more than 60, then you need to display the phrase &quot;You don&#39;t have to work&quot;.
+3.	If the age is in the range from 20 to 60 (inclusive), then don&#39;t display anything.
+4.	The program must use a single if statement without an else block and must use the || logical operator.
+
+

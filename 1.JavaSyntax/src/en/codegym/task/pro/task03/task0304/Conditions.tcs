@@ -1,0 +1,14 @@
+taskKey="en.codegym.task.pro.task03.task0304"\n\nLet's take your temperature
+
+The program reads a body temperature from the keyboard and displays a message indicating whether the body temperature is high, low or normal, depending on its value.
+The class declares two boolean variables: isHigh (meaning high temperature) and isLow (meaning low temperature). You need to write the appropriate conditions and use these variables instead of comparisons.
+
+
+Требования:
+1.	The program should read the temperature from the keyboard.
+2.	Do not change the declaration of the isHigh and isLow variables.
+3.	In the main method, appropriate comparison expressions must be assigned to the isHigh and isLow variables.
+4.	The isHigh and isLow variables should be used instead of comparisons in the if() statements.
+5.	The functionality of the program must not change.
+
+
